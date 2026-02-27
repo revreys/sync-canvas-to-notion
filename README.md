@@ -1,3 +1,5 @@
+## Disclaimer
+I made this awhile ago, so if you encounter any issues make sure to let me know.
 ## Setup
 
 1) Create a Notion integration and share your database with it.
